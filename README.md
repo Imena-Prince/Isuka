@@ -26,3 +26,8 @@ Isuka Platform is an agricultural oriented platform as i have said before. It Se
   -**RCA** It will also need Access From Rwanda Cooperative Agency to verify if the provided cooperative credentials are true
   -**NLA** This is eseential when individual is requesting to plant something, as he/she will be required to provide UPI, so it will help to verify if that plot exist and if it truly belongs to that individual
   -**RRA** This will be to verify TIN number provided
+
+
+  **Dataset/Index**
+
+  -I developed This Platform based on Agriculture Household Survey 2017,2020 and 2024
