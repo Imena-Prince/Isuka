@@ -17,7 +17,7 @@ Isuka Platform is an agricultural oriented platform as i have said before. It Se
 - Thirdly, this platform should allow the administrator to monitor production and see how each district is progressing.
 
   **Domain**
-  -isuka.rw
+  - isuka.rw
 
   **Sample Credentials**
   -Individual farmer: email:imenaprince8@gmail.com, password:Imena@12345
