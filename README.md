@@ -15,10 +15,9 @@ Isuka Platform is an agricultural oriented platform as i have said before. It Se
 - Thirdly, this platform should allow the administrator to monitor production and see how each district is progressing.
 
   **Sample Credentials**
-  -Individual farmer: email:manzijacqu@gmail.com, password:
-  -Distributor: email: igenosolivis0@gmail.com, Password:
-  -administrator: email:imenaprince@gmail.com, password:
-  -cooperative: email:sabrineu98@gmail.com, Password:
+  -Individual farmer: email:imenaprince8@gmail.com, password:Imena@12345
+  -Distributor: email: imenaprince8@yahoo.com, Password:Imena@12345
+  -administrator: email:imenaprince@gmail.com, password:SecurePassword123!
 
   **Requirements**
   This platform is not complete as i have said, to fully function it will need access from government institutions namely:
@@ -31,3 +30,6 @@ Isuka Platform is an agricultural oriented platform as i have said before. It Se
   **Dataset/Index**
 
   -I developed This Platform based on Agriculture Household Survey 2017,2020 and 2024
+
+  **Description Video**
+  -Link: https://youtu.be/dAX6JpzE1sM
