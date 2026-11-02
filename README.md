@@ -1,4 +1,6 @@
+
 Isuka platform is an agricultural oriented platform. It serves a center for agriculture (both crop farming and livestock farming). This platform will help to reduce the amount of production that is lost due to lack of market, also it will help farmers to easily access all necessary services to carry out their activities efficiently. It serves mainly 3 categories of users(individual farmers, distributor and cooperatives). Each User performs specific operations.
+
 
 **Individual/cooperative**
 Both individual farmer and cooperative perform the same functions namely:
@@ -13,6 +15,9 @@ Isuka Platform is an agricultural oriented platform as i have said before. It Se
 -Allow Farmers Post Their Production
 -Also it will allow Farmers to request To plant Crops in their fields, The Request Will Be Submitted To A land Officer so that he Or She can allow or deny due to some reasons like if that specific plot is for another use or if it would be better if that plot/area was to be planted with something else.
 - Thirdly, this platform should allow the administrator to monitor production and see how each district is progressing.
+
+  **Domain**
+  -isuka.rw
 
   **Sample Credentials**
   -Individual farmer: email:imenaprince8@gmail.com, password:Imena@12345
